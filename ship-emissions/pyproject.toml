@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shipemis"
+version = "0.1.0"
+description = "Activity-based ship exhaust emission inventories (Trozzi & Vaccaro / MEET and Entec UK) with an audit of the original Excel workflow"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Aydın Tokuşlu" }]
+dependencies = ["numpy>=1.24", "pandas>=2.0", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+xls = ["xlrd>=2.0"]
+dev = ["pytest>=7", "xlrd>=2.0"]
+
+[project.scripts]
+shipemis = "shipemis.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

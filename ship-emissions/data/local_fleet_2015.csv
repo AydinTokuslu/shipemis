@@ -1,0 +1,222 @@
+firm,vessel,trozzi_type,gt,distance_nm,engine,entec_type,main_kw,aux_kw,speed_kn,main_kw_source,aux_kw_source,speed_source
+IDO,Osman Gazi,HIGH SPEED FERRY,6133.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,28800.0,530.0,37.4,MTU fast-ferry reference list (Osman Gazi I: 4 x 7200 kW),thesis EK default (265 kW x 2),inventory
+IDO,Orhan Gazi,HIGH SPEED FERRY,6133.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,28800.0,530.0,37.4,MTU fast-ferry reference list (Osman Gazi I: 4 x 7200 kW),thesis EK default (265 kW x 2),inventory
+IDO,Adnan Menderes,HIGH SPEED FERRY,5992.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,26000.0,530.0,37.0,MTU fast-ferry reference list (20V 1163: 6500 kW per engine),thesis EK default (265 kW x 2),inventory
+IDO,Turgut Özal,HIGH SPEED FERRY,5992.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,26000.0,530.0,37.0,MTU fast-ferry reference list (20V 1163: 6500 kW per engine),thesis EK default (265 kW x 2),inventory
+IDO,Kanuni Sultan Süleyman,HIGH SPEED FERRY,2284.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,7680.0,530.0,22.0,"Cat 3516B marine propulsion data sheet, 1920 bkW",thesis EK default (265 kW x 2),inventory
+IDO,Yavuz Sultan Selim,HIGH SPEED FERRY,2284.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,7680.0,530.0,22.0,"Cat 3516B marine propulsion data sheet, 1920 bkW",thesis EK default (265 kW x 2),inventory
+IDO,Cezayirli Hasan Paşa,HIGH SPEED FERRY,2695.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,13000.0,530.0,34.5,MTU fast-ferry reference list (20V 1163: 6500 kW per engine),thesis EK default (265 kW x 2),inventory
+IDO,Recep Tayyip Erdoğan,HIGH SPEED FERRY,2942.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,5880.0,530.0,22.0,"MTU 12V 396 TE74L, 1470 kW @ 2000 rpm",thesis EK default (265 kW x 2),inventory
+IDO,Fatih Sultan Mehmet,HIGH SPEED FERRY,2942.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,5880.0,530.0,22.0,"MTU 12V 396 TE74L, 1470 kW @ 2000 rpm",thesis EK default (265 kW x 2),inventory
+IDO,Burak Reis – 3,HIGH SPEED FERRY,644.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,4324.0,530.0,30.9,"Cat C32 marine propulsion (IMO II), 1081 bkW",thesis EK default (265 kW x 2),inventory
+IDO,Salih Reis-4,HIGH SPEED FERRY,644.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,4324.0,530.0,30.9,"Cat C32 marine propulsion (IMO II), 1081 bkW",thesis EK default (265 kW x 2),inventory
+IDO,Kemal Reis – 5,HIGH SPEED FERRY,644.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,4324.0,530.0,30.9,"Cat C32 marine propulsion (IMO II), 1081 bkW",thesis EK default (265 kW x 2),inventory
+IDO,Mehmet Reis – 11,HIGH SPEED FERRY,644.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,30.9,thesis EK 2,thesis EK 2,inventory
+IDO,Murat Reis – 7,HIGH SPEED FERRY,644.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,30.9,thesis EK 2,thesis EK 2,inventory
+IDO,Umur Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,25.0,thesis EK 2,thesis EK 2,inventory
+IDO,Sarıca Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,25.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Uluç Ali Reis,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,25.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Nusret Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,25.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Hezarfen Çelebi,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,25.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Çaka Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2940.0,530.0,25.0,assumed equal to 12V 396 TE74L,thesis EK default (265 kW x 2),inventory
+IDO,Yeditepe I,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2940.0,530.0,25.0,assumed equal to 12V 396 TE74L,thesis EK default (265 kW x 2),inventory
+IDO,Ulubatlı Hasan,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2940.0,530.0,25.0,assumed equal to 12V 396 TE74L,thesis EK default (265 kW x 2),inventory
+IDO,Karamürsel Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2940.0,530.0,25.0,assumed equal to 12V 396 TE74L,thesis EK default (265 kW x 2),inventory
+IDO,Çavlı Bey,HIGH SPEED FERRY,431.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2940.0,530.0,25.0,assumed equal to 12V 396 TE74L,thesis EK default (265 kW x 2),inventory
+IDO,Kaptan Paşa,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,32.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Seydi Ali Reis,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,32.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Oruç Reis V,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,32.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Temel Reis II,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,32.0,thesis EK 2,thesis EK 2,inventory
+IDO,Hızır Reis III,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,32.0,thesis EK 2,thesis EK 2,inventory
+IDO,Sokullu Mehmet Paşa,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,32.0,thesis EK 2,thesis EK 2,inventory
+IDO,Barbaros Hayrettin Paşa,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,32.0,thesis EK 2,thesis EK 2,inventory
+IDO,Piyale Paşa,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,33.5,thesis EK 2,thesis EK 2,inventory
+IDO,Sinan Paşa,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,1120.0,33.5,thesis EK 2,thesis EK 2,inventory
+IDO,Ord.Prof. Ata Nutku,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Değirmendere,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+IDO,Eskihisar-1,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Halıdere,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Hereke-III,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Karamürsel,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Kaptan Şefik Göğen,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Topçular-I,PASSENGER/RO-RO/CARGO,1596.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,10.0,thesis EK 2,thesis EK 2,inventory
+IDO,Gayrettepe,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Galatasaray,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Okmeydanı,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Topkapı,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Zeytinburnu,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Bozcaada,PASSENGER/RO-RO/CARGO,1905.0,4320.0,SLOW SPEED DIESEL ENGINES,Passenger/Ro-Ro Cargo,3044.0,530.0,8.0,thesis EK 2,thesis EK 2,inventory
+IDO,Turgut Reis,HIGH SPEED FERRY,2695.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,13000.0,530.0,34.5,MTU fast-ferry reference list (20V 1163: 6500 kW per engine),thesis EK default (265 kW x 2),inventory
+IDO,Piri Reis,HIGH SPEED FERRY,395.0,4320.0,HIGH SPEED DIESEL ENGINES,Passenger,2440.0,530.0,32.0,sister ship in thesis EK 2,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,HASKÖY,ALL SHIPS,177.73,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1300.0,530.0,10.0,inventory,thesis EK default (265 kW x 2),thesis EK 1
+SEHIR HATLARI,KASIMPAŞA,ALL SHIPS,175.42,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1300.0,530.0,10.0,inventory,thesis EK default (265 kW x 2),thesis EK 1
+SEHIR HATLARI,SÜTLÜCE,ALL SHIPS,177.73,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1300.0,530.0,10.0,inventory,thesis EK default (265 kW x 2),thesis EK 1
+SEHIR HATLARI,ŞH DURUSU,ALL SHIPS,294.08,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1472.0,560.0,13.0,inventory,inventory,inventory
+SEHIR HATLARI,ŞH GÖKSU,ALL SHIPS,294.08,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1472.0,560.0,13.0,inventory,inventory,inventory
+SEHIR HATLARI,ŞH GÜMÜŞSU,ALL SHIPS,294.08,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1472.0,560.0,13.0,inventory,inventory,inventory
+SEHIR HATLARI,ŞH KÜÇÜKSU,ALL SHIPS,294.08,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,1472.0,560.0,13.0,inventory,inventory,inventory
+SEHIR HATLARI,M/S BEŞİKTAŞ-1,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S CADDEBOSTAN,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S İ. HAKKI DURUSU,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S İSTANBUL-9,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S KALAMIŞ,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S MODA,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S NURETTİN ALPDOĞAN,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞEHİT İLKER KARTER,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞEHİT METİN SÜLÜŞ,ALL SHIPS,456.0,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞEHİT MUSTAFA AYDOĞDU,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞEHİT SAMİ AKBULUT,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞH-BEYKOZ,ALL SHIPS,741.12,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,2412.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞH-BEYOĞLU,ALL SHIPS,747.36,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,2412.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞH-FATİH,ALL SHIPS,747.36,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,2412.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞH-KADIKÖY,ALL SHIPS,747.36,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,2412.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞH-SARIYER,ALL SHIPS,741.12,25920.0,HIGH SPEED DIESEL ENGINES,Passenger,2412.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S AHMET H.YILDIRIM,ALL SHIPS,610.27,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1980.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S BARIŞ MANÇO,ALL SHIPS,617.34,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1980.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S EMİN KUL,ALL SHIPS,658.18,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,3000.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S FAHRİ S.KORUTÜRK,ALL SHIPS,658.18,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,3000.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S PROF.DR.AYKUT BARKA,ALL SHIPS,610.27,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1980.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+SEHIR HATLARI,M/S ŞEHİT AYDIN GÜLER,ALL SHIPS,456.01,25920.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),inventory
+BEYDEN,BEYDEN,ALL SHIPS,300.0,63072.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,default (no data),thesis EK default (265 kW x 2),default (no data)
+BOGAZICI,Yunus Tur-1,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Hasan Akyel,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Şenol-2,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Uçar Su,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Şahin İstanbul,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,K.Hakkı Tezol,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Raks-ı Derya,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Çakır Usta,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Nedim Ağa,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,İstanbul City,ALL SHIPS,300.0,3060.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Yeni Ceylan,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Gönül-5,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Mustafa kaptan-5,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Önder-2,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Bıyıklı,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Doğan Yurt,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Afra-1,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Sandalcıoğlu,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Berika,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+BOGAZICI,Yıldıran,ALL SHIPS,300.0,3060.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Rıza Yusuf Girit,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Erdoğan Yazıcı,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Nihat Kaptan,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Barbaros Kaptan-1,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kaptan Mehmet Akardaş,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Dedetaş-1,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Koçal Kardeşler,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Erdem Karadeniz,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Gönül,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kamil Sayın,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Neşet Giritlioğlu,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Sefer Kaptan-1,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Hızır Reis,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Sueda,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kaçar-1,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Turgut Yüksel,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Tafralı,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Yeni Kısmet,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Emin-1,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Yeni Aksu,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kaptan Ahmet Cemal,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Nebioğlu-1,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Sabri Kaptan,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,M.Şişmanoğlu,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,İsmail Bıyıklı,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Yunus,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Artur-1,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kaptan Ayhan Karayel,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,A.Sedat,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Eken-1,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Önder-K,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Ahmet Şişman,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Fecr-i Saadet,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Yücel Kaptan,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Yeşilçay-1,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Aytepe-1,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Nazmi Ketenci,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Mehmet Erdinç,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Rüstem Morgül,ALL SHIPS,300.0,1476.0,SLOW SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kaptan Nazmi Alev,ALL SHIPS,400.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+DENTUR,Kanuni,ALL SHIPS,300.0,1476.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,14.0,"thesis EK 4/5 (750 kW x 2, 265 kW x 2)","thesis EK 4/5 (750 kW x 2, 265 kW x 2)",default (no data)
+MAVI MARMARA,Affet,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Çakırlar-3,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1474.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Demokan,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1796.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Erke Han,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1796.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,K.Hasan Karadeniz,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Pasifik Yıldızı,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1360.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Sabret,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1440.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Ada Vapuru,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1394.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Caner Kaptan-2,ALL SHIPS,300.0,21240.0,HIGH SPEED DIESEL ENGINES,Passenger,1752.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Dursunoğulları-2,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Faik İlnam,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Kuzey Kaptan,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1100.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Sarıoğlu-2,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,810.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Yeni Ahmet Kaptan,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Atilla Han-1,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1040.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Avcı,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,760.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Bilge Kağan,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1100.0,530.0,14.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,İhsan Kaptan-1,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,760.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Sarıoğlu-1,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,620.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Şahin,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,700.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Şen Kardeşler,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,868.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Tellioğlu,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,760.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Camgöz Kardeşler,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,640.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Hepgül-1,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,700.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Hepgül-2,ALL SHIPS,300.0,21240.0,SLOW SPEED DIESEL ENGINES,Passenger,350.0,530.0,9.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Miraç,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,660.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Nazende-1,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,880.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Kartal Kaan,ALL SHIPS,300.0,21240.0,MEDIUM SPEED DIESEL ENGINES,Passenger,870.0,530.0,12.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+MAVI MARMARA,Şen Kardeşler-3,ALL SHIPS,300.0,21240.0,SLOW SPEED DIESEL ENGINES,Passenger,560.0,530.0,10.0,inventory,thesis EK default (265 kW x 2),thesis EK 6
+TURYOL,ADATEPE-2,ALL SHIPS,300.0,14347.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1500.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,ALTINKAYA 1,ALL SHIPS,300.0,15565.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.BEŞİKTAŞ,ALL SHIPS,300.0,15812.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1240.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.ÇAĞLAYAN,ALL SHIPS,300.0,14029.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.METEOĞLU,ALL SHIPS,300.0,13209.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1502.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.FEYİZOĞLU,ALL SHIPS,300.0,15140.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,17.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.VARAN 2,ALL SHIPS,300.0,18790.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,B.YEŞİLADA,ALL SHIPS,300.0,7936.0,MEDIUM SPEED DIESEL ENGINES,Passenger,974.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,Ç.PRINCESS,ALL SHIPS,300.0,16833.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,EMİN İNANDI,ALL SHIPS,300.0,13891.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,F.ÖMEROĞLU,ALL SHIPS,300.0,14082.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1100.0,530.0,12.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,FETHİ BEY,ALL SHIPS,300.0,14326.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,14.5,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,FEYİZOĞLU 2,ALL SHIPS,300.0,13729.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,H.HASAN KPT.,ALL SHIPS,300.0,13654.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,H.REİSOĞLU-4,ALL SHIPS,300.0,12733.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1100.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,H.REİSOĞLU-5,ALL SHIPS,300.0,11948.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1350.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,HADEKA,ALL SHIPS,300.0,17404.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,HANÖNÜ-T,ALL SHIPS,300.0,10000.0,SLOW SPEED DIESEL ENGINES,Passenger,160.0,530.0,8.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,HAŞİM İNANDI,ALL SHIPS,300.0,12945.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1616.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.B.ŞEVKET,ALL SHIPS,300.0,11074.0,MEDIUM SPEED DIESEL ENGINES,Passenger,880.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.AHMET CAN,ALL SHIPS,300.0,7554.0,SLOW SPEED DIESEL ENGINES,Passenger,460.0,530.0,9.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.H.TÜFEKÇİ,ALL SHIPS,300.0,18712.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.İLYAS MERT,ALL SHIPS,300.0,13766.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1102.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.M.GÜLER,ALL SHIPS,300.0,15355.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,K.R.AYNACI,ALL SHIPS,300.0,13694.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1608.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,KARADENİZ/A,ALL SHIPS,300.0,14946.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1550.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,KINALI VARAN,ALL SHIPS,300.0,17410.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,KIRÇILOĞLU 2,ALL SHIPS,300.0,13168.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,MEFKÜRE,ALL SHIPS,300.0,12588.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,METE-2,ALL SHIPS,300.0,16158.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1118.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,METE-3,ALL SHIPS,300.0,14371.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1480.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,METEOĞLU,ALL SHIPS,300.0,21175.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,15.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,M.GÜNAY,ALL SHIPS,300.0,16762.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1080.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,MUZAFFER KPT,ALL SHIPS,300.0,13956.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1080.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,MÜHENDİS,ALL SHIPS,300.0,12547.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1000.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,N.KETENCİ,ALL SHIPS,300.0,17492.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1000.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,POLARİS,ALL SHIPS,300.0,16024.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,13.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,REİSOĞLU 2,ALL SHIPS,300.0,6900.0,MEDIUM SPEED DIESEL ENGINES,Passenger,330.0,530.0,8.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,ŞÜKRET,ALL SHIPS,300.0,13810.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1600.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,TURYOL-2,ALL SHIPS,300.0,7138.0,SLOW SPEED DIESEL ENGINES,Passenger,379.0,530.0,9.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,TURYOL-3,ALL SHIPS,300.0,6906.0,MEDIUM SPEED DIESEL ENGINES,Passenger,635.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,TURYOL-4,ALL SHIPS,300.0,7405.0,MEDIUM SPEED DIESEL ENGINES,Passenger,980.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,TURYOL-5,ALL SHIPS,300.0,7352.0,SLOW SPEED DIESEL ENGINES,Passenger,550.0,530.0,10.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,TÜFEKÇİOĞLU 2,ALL SHIPS,300.0,13510.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1200.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,URFALI CEMAL,ALL SHIPS,300.0,12440.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1000.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,VARAN KAPTAN,ALL SHIPS,300.0,13522.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,VENÜS-1,ALL SHIPS,300.0,13687.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1520.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,Y.ALİ REİS 3,ALL SHIPS,300.0,11577.0,MEDIUM SPEED DIESEL ENGINES,Passenger,648.0,530.0,12.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,YAZICI 4,ALL SHIPS,300.0,14942.0,MEDIUM SPEED DIESEL ENGINES,Passenger,1632.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,Y.MARMARA,ALL SHIPS,300.0,10546.0,MEDIUM SPEED DIESEL ENGINES,Passenger,840.0,530.0,12.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,Y.YEŞİLADA,ALL SHIPS,300.0,14038.0,MEDIUM SPEED DIESEL ENGINES,Passenger,900.0,530.0,14.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
+TURYOL,ZİYABEY 1,ALL SHIPS,300.0,6009.0,SLOW SPEED DIESEL ENGINES,Passenger,474.0,530.0,10.0,inventory (engine 1 + engine 2),thesis EK default (265 kW x 2),thesis EK 3
